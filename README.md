@@ -7,6 +7,8 @@ datasets. In particular, we will be using the "Individual household
 electric power consumption Data Set" which I have made available on
 the course web site:
 
+## NOTE - the data file is not uploaded to the repository due to it's size. 
+## all code assumes the file is in the local working directory.
 
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
